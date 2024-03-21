@@ -1,9 +1,17 @@
 # iOS-Developer-Portfolio
 
 I am a self-driven, experienced and passionate iOS Developer who makes native apps using SwiftUI and Swift.
+<p align="center">
+  <img src="https://github.com/daljeetseera/iOS-Developer-Portfolio/assets/54598657/d9c78d62-6092-4675-997f-1bea90311f75", width="150", height="150" />
+</p>
+
+<br><p align="center">
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daljeetseera/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@daljeetseera9668) 
+</p>
 
 # [Livly](https://apps.apple.com/ca/app/livly/id1456628011)
-This app is for apartment residents through which you can Pay your rent, submit requests to building management, receive detailed package notifications, and choose from a marketplace of convenient goods and services.
+This app is for apartment residents through which you can Pay your rent, submit requests to building management, receive detailed package notifications, and choose from a marketplace of convenient goods and services. It is made using Swift, SwiftUI & Combine with latest tech updates.
 
 <p align="center">
 <img src="https://github.com/daljeetseera/iOS-Developer-Portfolio/assets/54598657/9a664e4a-72f5-486e-98fd-c8883df6240f", width="200", height="355"/>
@@ -23,7 +31,7 @@ This app is for apartment residents through which you can Pay your rent, submit 
 - Third party payment gateway
 - Notifications
 - Bluetooth
-- MVVM
+- Clean Architecture
 
 # [Livly Hub](https://apps.apple.com/ca/app/livly-hub/id1464225200)
 This app is a centralized platform for collaborating and organizing with building staff. The unified digital hub for property managers. Your portal for important resident information and modern communication tool for teams, buildings, and portfolios. The Livly Hub is a data center to review policies, lease status, and resident profiles. No more chasing down resident information from multiple systems: one platform for all the key details on resident move in, life in the building, renewals, and more.
@@ -39,10 +47,8 @@ This app is a centralized platform for collaborating and organizing with buildin
 **Tech Used**
 - Swift
 - SwiftUI
-- RealmDB
-- Animations
-- Notifications
-- MVVM
+- Stream chat
+- MVVM + Clean Architecture
 
 
 # [Circuit Living](https://apps.apple.com/us/app/circuit-living/id6443907815)
@@ -63,10 +69,7 @@ Circuit app allows ease access to all of the services offered to your community.
 **Tech Used**
 - Swift
 - SwiftUI
-- RealmDB
-- Animations
-- Notifications
-- MVVM
+- Flow Coordinators
 
 # [Beckett](https://apps.apple.com/sg/app/beckett-mobile/id805410450)
 Beckett app provides products and services to help collectors and businesses buy, sell, protect, value, and learn about sports and non-sports trading cards and collectibles. Some of the features are 
