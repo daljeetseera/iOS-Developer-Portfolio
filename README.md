@@ -68,6 +68,27 @@ Circuit app allows ease access to all of the services offered to your community.
 - Notifications
 - MVVM
 
+# [Beckett](https://apps.apple.com/sg/app/beckett-mobile/id805410450)
+Beckett app provides products and services to help collectors and businesses buy, sell, protect, value, and learn about sports and non-sports trading cards and collectibles. Some of the features are 
+- Beckett Online Price Guide (OPG)
+- Beckett Grading Services(BGS)
+- Beckett Authentication Services (BAS)
+- Organize
+
+<p align="center">
+<img src="https://github.com/daljeetseera/iOS-Developer-Portfolio/assets/54598657/998767b6-c2ff-4337-a86d-88a0800b47da", width="200", height="355"/>
+<img src="https://github.com/daljeetseera/iOS-Developer-Portfolio/assets/54598657/71b9786a-be98-4d62-bdc2-4d3ddc026dba", width="200", height="355"/>
+<img src="https://github.com/daljeetseera/iOS-Developer-Portfolio/assets/54598657/6918f2db-65e4-4b43-9e0b-0b12fb7ae827", width="200", height="355"/>
+<img src="https://github.com/daljeetseera/iOS-Developer-Portfolio/assets/54598657/387be1ac-6f29-4d02-956b-225f367a3614", width="200", height="355"/>
+</p>
+
+**Tech Used**
+- Swift
+- Objective C
+- In App Purchase
+- Stripe
+- Notifications
+- MVC
 
   
 
